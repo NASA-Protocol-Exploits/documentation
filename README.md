@@ -24,6 +24,7 @@ and setup, as the files and folder structure has already been setup on GitHub.
 
 ## Table of Contents
   - [Scenario Reports](/docs/scenario-reports/README.md)
+  - [Bug Reports](/docs/bug-reports/README.md)
 
 ## Contributing
 
